@@ -4,6 +4,8 @@
 <h2>👨‍💻 Research Report:</h2>
 
 - <b>[Insights of Australia’s Early Childhood Workforce](https://github.com/nab1999/Insights-of-Australia-s-Early-Childhood-Workforce.git)</b>
+- <b>[Sentiment Prediction on COVID-19 Vaccination](https://github.com/nab1999/Insights-of-Australia-s-Early-Childhood-Workforce.git)</b>
+
 
 
 
