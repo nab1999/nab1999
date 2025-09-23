@@ -17,7 +17,7 @@
 - <b>[Meals on Wings – Drone Meal Delivery Project](https://github.com/nab1999/Meals-on-Wings.git)</b>
 - <b>[Automotive Data Analysis – Ward’s 1985 Dataset](https://github.com/nab1999/Automotive-Data-Analysis-Project.git)</b>
 - <b>[Bank Marketing Campaign Analysis – Classification Models](https://github.com/nab1999/Bank-Marketing-Campaign-Analysis-Project.git)</b>
-- <b>[Data Science Project (Health Care related) – Classification & Modelling](https://github.com/nab1999/Data-Science-Project-A3.git)</b>
+- <b>[Data Science Project (Health Care Related) – Classification & Modelling](https://github.com/nab1999/Data-Science-Project-3.git)</b>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
