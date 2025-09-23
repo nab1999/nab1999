@@ -12,7 +12,7 @@
 - <b>[Energy Balance – User-Centred Design Project](https://github.com/nab1999/UCD-Energy-Balance-Project.git)</b>
 
 
-<h2>PYTHON & DATA SCIENCE PROJECTs:</h2>
+<h2>PYTHON & DATA SCIENCE PROJECTS:</h2>
 
 - <b>[Meals on Wings – Drone Meal Delivery Project](https://github.com/nab1999/Meals-on-Wings.git)</b>
 - <b>[Automotive Data Analysis – Ward’s 1985 Dataset](https://github.com/nab1999/Automotive-Data-Analysis-Project.git)</b>
