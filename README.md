@@ -21,9 +21,9 @@
 
 <h2>CLOUD PROJECTS:</h2>
 
-- **[Project 1 – AWS Photo Album Deployment](https://github.com/nab1999/Cloud-Project1-AWS)**
-- **[Project 2 – OCI Photo Album Deployment](https://github.com/nab1999/Cloud-Project2-OCI)**
-- **[Project 3 – Multi-Cloud Deployment](https://github.com/nab1999/Cloud-Project3-MultiCloud)**
+- **[Project 1 – AWS Photo Album Deployment](https://github.com/nab1999/Cloud-Computing-Projects-1-2-3.git)** 
+- **[Project 2 – OCI Photo Album Deployment](https://github.com/nab1999/Cloud-Computing-Projects-1-2-3.git)**
+- **[Project 3 – Multi-Cloud Deployment](https://github.com/nab1999/Cloud-Computing-Projects-1-2-3.git)**
 
 
 
