@@ -28,7 +28,9 @@
 - **[Project 3 – Multi-Cloud Deployment](https://github.com/nab1999/Cloud-Computing-Projects-1-2-3.git)**
 
 
+<h2>JAVA PROJECTS:</h2>
 
+- <b>[GUI Parking Spot System](https://github.com/nab1999/JAVA-GUI-Parking-Spot-System.git)</b>
 
 
 
