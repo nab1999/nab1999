@@ -18,6 +18,8 @@
 - <b>[Automotive Data Analysis – Ward’s 1985 Dataset](https://github.com/nab1999/Automotive-Data-Analysis-Project.git)</b>
 - <b>[Bank Marketing Campaign Analysis – Classification Models](https://github.com/nab1999/Bank-Marketing-Campaign-Analysis-Project.git)</b>
 - <b>[Data Science Project (Health Care Related) – Classification & Modelling](https://github.com/nab1999/Data-Science-Project-3.git)</b>
+- <b>[British Airways Review Analysis & Booking Prediction](https://github.com/nab1999/British-Airways-Data-Science-Project.git)</b>
+
 
 <h2>CLOUD PROJECTS:</h2>
 
